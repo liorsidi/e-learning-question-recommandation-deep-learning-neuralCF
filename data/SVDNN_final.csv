@@ -1,0 +1,13 @@
+,SAP_offline,activation,batch_size,callback,deep,epochs,factors,fit_duration,layers,model_class,p_dropout,rate_duration,shuffle,spearman_offline,student_i,total_questions
+0,0.853962987064,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,1.956,1,SVDNN,0.25,25030907.237,False,0.330032909139,0BrbPbwCMz,289
+1,0.93381122343,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,1.973,1,SVDNN,0.25,25030909.238,False,0.458743554277,46z59pQP58,193
+2,0.871516623058,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,2.049,1,SVDNN,0.25,25030911.31,False,0.438088784747,52vEY7f17k,280
+3,0.832972037315,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,2.07,1,SVDNN,0.25,25030913.438,False,0.120044975996,0BrbPbwCMz,370
+4,0.898076940163,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,1.994,1,SVDNN,0.25,25030915.464,False,0.0277059606321,46z59pQP58,281
+5,0.806190110595,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,2.049,1,SVDNN,0.25,25030917.538,False,0.0567556566022,52vEY7f17k,359
+6,0.864337703459,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,2.132,1,SVDNN,0.25,25030919.7,False,0.388552822014,0BrbPbwCMz,289
+7,0.930598806368,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,1.991,1,SVDNN,0.25,25030921.722,False,0.38420001388,46z59pQP58,193
+8,0.868064459362,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,2.059,1,SVDNN,0.25,25030923.805,False,0.386884341285,52vEY7f17k,280
+9,0.801376975032,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,2.054,1,SVDNN,0.25,25030925.885,False,0.247479157533,0BrbPbwCMz,28
+10,0.861379594521,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,2.081,1,SVDNN,0.25,25030927.977,False,0.146789540822,46z59pQP58,402
+11,0.781169573511,tanh,256,[<keras.callbacks.EarlyStopping object at 0x7f3f320f2850>],True,15,40,1.992,1,SVDNN,0.25,25030930.005,False,0.197716443752,52vEY7f17k,242
